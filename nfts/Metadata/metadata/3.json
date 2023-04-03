@@ -1,0 +1,39 @@
+{
+    "name": "Muhammad Li",
+    "description": "Primeros 10 NFT's del proyecto MiningBullsClub entregado a fundadores y colaboradores",
+    "image": "ipfs://QmbmwC8W2H3AC4HDjph4MHBHwwuGYTzeJyLHTnzR6VUxRw/3.jpg",
+    "attributes": [
+        {
+            "trait_type": "1_Gesto",
+            "value": "ToroCoqueto"
+        },
+        {
+            "trait_type": "2_Cabeza",
+            "value": "AroAngel"
+        },
+        {
+            "trait_type": "3_Cuernos",
+            "value": "LongHorn"
+        },
+        {
+            "trait_type": "4_Ojos",
+            "value": "OjosRojos"
+        },
+        {
+            "trait_type": "6_Orejas",
+            "value": "Nada_Orejas"
+        },
+        {
+            "trait_type": "8_Ocico",
+            "value": "Nada_Ocico"
+        },
+        {
+            "trait_type": "9_Cuerpo",
+            "value": "Corbata"
+        },
+        {
+            "trait_type": "11_Fondo",
+            "value": "PlanoFondoBlanco"
+        }
+    ]
+}

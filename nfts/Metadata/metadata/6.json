@@ -1,0 +1,39 @@
+{
+    "name": "Ali Khan",
+    "description": "Primeros 10 NFT's del proyecto MiningBullsClub entregado a fundadores y colaboradores",
+    "image": "ipfs://QmbmwC8W2H3AC4HDjph4MHBHwwuGYTzeJyLHTnzR6VUxRw/6.jpg",
+    "attributes": [
+        {
+            "trait_type": "1_Gesto",
+            "value": "ToroCoqueto"
+        },
+        {
+            "trait_type": "2_Cabeza",
+            "value": "Nada_Cabeza"
+        },
+        {
+            "trait_type": "3_Cuernos",
+            "value": "CuernosOriginales"
+        },
+        {
+            "trait_type": "4_Ojos",
+            "value": "OjosCafes"
+        },
+        {
+            "trait_type": "6_Orejas",
+            "value": "Aretes"
+        },
+        {
+            "trait_type": "8_Ocico",
+            "value": "pircingChicoOcico"
+        },
+        {
+            "trait_type": "9_Cuerpo",
+            "value": "Martillo"
+        },
+        {
+            "trait_type": "11_Fondo",
+            "value": "PlanoFondoBlanco"
+        }
+    ]
+}

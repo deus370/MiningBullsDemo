@@ -1,0 +1,39 @@
+{
+    "name": "Nushi Wang",
+    "description": "Primeros 10 NFT's del proyecto MiningBullsClub entregado a fundadores y colaboradores",
+    "image": "ipfs://QmbmwC8W2H3AC4HDjph4MHBHwwuGYTzeJyLHTnzR6VUxRw/1.jpg",
+    "attributes": [
+        {
+            "trait_type": "1_Gesto",
+            "value": "ToroFeliz"
+        },
+        {
+            "trait_type": "2_Cabeza",
+            "value": "AroAngel"
+        },
+        {
+            "trait_type": "3_Cuernos",
+            "value": "CuernosChicosRojo"
+        },
+        {
+            "trait_type": "4_Ojos",
+            "value": "OjosRojos"
+        },
+        {
+            "trait_type": "6_Orejas",
+            "value": "pircingChicoOrejas"
+        },
+        {
+            "trait_type": "8_Ocico",
+            "value": "Nada_Ocico"
+        },
+        {
+            "trait_type": "9_Cuerpo",
+            "value": "Nada_Cuerpo"
+        },
+        {
+            "trait_type": "11_Fondo",
+            "value": "PlanoFondoBlanco"
+        }
+    ]
+}

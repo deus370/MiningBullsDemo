@@ -1,0 +1,39 @@
+{
+    "name": "Robert Martínez",
+    "description": "Primeros 10 NFT's del proyecto MiningBullsClub entregado a fundadores y colaboradores",
+    "image": "ipfs://QmbmwC8W2H3AC4HDjph4MHBHwwuGYTzeJyLHTnzR6VUxRw/11.jpg",
+    "attributes": [
+        {
+            "trait_type": "1_Gesto",
+            "value": "ToroOriginalCol1"
+        },
+        {
+            "trait_type": "2_Cabeza",
+            "value": "CascoMinero"
+        },
+        {
+            "trait_type": "3_Cuernos",
+            "value": "LongHorn"
+        },
+        {
+            "trait_type": "4_Ojos",
+            "value": "OjosAzules"
+        },
+        {
+            "trait_type": "6_Orejas",
+            "value": "Nada_Orejas"
+        },
+        {
+            "trait_type": "8_Ocico",
+            "value": "Nada_Ocico"
+        },
+        {
+            "trait_type": "9_Cuerpo",
+            "value": "Playera"
+        },
+        {
+            "trait_type": "11_Fondo",
+            "value": "PlanoFondoNoche"
+        }
+    ]
+}

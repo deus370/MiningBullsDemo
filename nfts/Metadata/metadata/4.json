@@ -1,0 +1,39 @@
+{
+    "name": "Ahmed Kumar",
+    "description": "Primeros 10 NFT's del proyecto MiningBullsClub entregado a fundadores y colaboradores",
+    "image": "ipfs://QmbmwC8W2H3AC4HDjph4MHBHwwuGYTzeJyLHTnzR6VUxRw/4.jpg",
+    "attributes": [
+        {
+            "trait_type": "1_Gesto",
+            "value": "ToroOriginal"
+        },
+        {
+            "trait_type": "2_Cabeza",
+            "value": "Nada_Cabeza"
+        },
+        {
+            "trait_type": "3_Cuernos",
+            "value": "LongHorn"
+        },
+        {
+            "trait_type": "4_Ojos",
+            "value": "OjosRojos"
+        },
+        {
+            "trait_type": "6_Orejas",
+            "value": "Nada_Orejas"
+        },
+        {
+            "trait_type": "8_Ocico",
+            "value": "pircingChicoOcico"
+        },
+        {
+            "trait_type": "9_Cuerpo",
+            "value": "Pico"
+        },
+        {
+            "trait_type": "11_Fondo",
+            "value": "PlanoFondoBlanco"
+        }
+    ]
+}
