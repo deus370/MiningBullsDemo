@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/deus370.github.io/MiningBullsDemo/static/css/main.a3f689b4.chunk.css",
-    "main.js": "/deus370.github.io/MiningBullsDemo/static/js/main.a51bd89d.chunk.js",
-    "main.js.map": "/deus370.github.io/MiningBullsDemo/static/js/main.a51bd89d.chunk.js.map",
-    "runtime-main.js": "/deus370.github.io/MiningBullsDemo/static/js/runtime-main.cdf72b65.js",
-    "runtime-main.js.map": "/deus370.github.io/MiningBullsDemo/static/js/runtime-main.cdf72b65.js.map",
-    "static/js/2.d9ec06d7.chunk.js": "/deus370.github.io/MiningBullsDemo/static/js/2.d9ec06d7.chunk.js",
-    "static/js/2.d9ec06d7.chunk.js.map": "/deus370.github.io/MiningBullsDemo/static/js/2.d9ec06d7.chunk.js.map",
-    "static/js/3.b4e67d30.chunk.js": "/deus370.github.io/MiningBullsDemo/static/js/3.b4e67d30.chunk.js",
-    "static/js/3.b4e67d30.chunk.js.map": "/deus370.github.io/MiningBullsDemo/static/js/3.b4e67d30.chunk.js.map",
-    "index.html": "/deus370.github.io/MiningBullsDemo/index.html",
-    "static/css/main.a3f689b4.chunk.css.map": "/deus370.github.io/MiningBullsDemo/static/css/main.a3f689b4.chunk.css.map",
-    "static/js/2.d9ec06d7.chunk.js.LICENSE.txt": "/deus370.github.io/MiningBullsDemo/static/js/2.d9ec06d7.chunk.js.LICENSE.txt",
-    "static/media/reset.css": "/deus370.github.io/MiningBullsDemo/static/media/font.617a0a92.woff"
+    "main.css": "/MiningBullsDemo/static/css/main.d07ccbc1.chunk.css",
+    "main.js": "/MiningBullsDemo/static/js/main.a51bd89d.chunk.js",
+    "main.js.map": "/MiningBullsDemo/static/js/main.a51bd89d.chunk.js.map",
+    "runtime-main.js": "/MiningBullsDemo/static/js/runtime-main.c85c219b.js",
+    "runtime-main.js.map": "/MiningBullsDemo/static/js/runtime-main.c85c219b.js.map",
+    "static/js/2.0d23bbaf.chunk.js": "/MiningBullsDemo/static/js/2.0d23bbaf.chunk.js",
+    "static/js/2.0d23bbaf.chunk.js.map": "/MiningBullsDemo/static/js/2.0d23bbaf.chunk.js.map",
+    "static/js/3.b4e67d30.chunk.js": "/MiningBullsDemo/static/js/3.b4e67d30.chunk.js",
+    "static/js/3.b4e67d30.chunk.js.map": "/MiningBullsDemo/static/js/3.b4e67d30.chunk.js.map",
+    "index.html": "/MiningBullsDemo/index.html",
+    "static/css/main.d07ccbc1.chunk.css.map": "/MiningBullsDemo/static/css/main.d07ccbc1.chunk.css.map",
+    "static/js/2.0d23bbaf.chunk.js.LICENSE.txt": "/MiningBullsDemo/static/js/2.0d23bbaf.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/MiningBullsDemo/static/media/font.617a0a92.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdf72b65.js",
-    "static/js/2.d9ec06d7.chunk.js",
-    "static/css/main.a3f689b4.chunk.css",
+    "static/js/runtime-main.c85c219b.js",
+    "static/js/2.0d23bbaf.chunk.js",
+    "static/css/main.d07ccbc1.chunk.css",
     "static/js/main.a51bd89d.chunk.js"
   ]
 }
